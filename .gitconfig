@@ -1,0 +1,12 @@
+[push]
+	default = simple
+[user]
+	email = mennovandergraaf@hotmail.com
+	name = Menno van der Graaf
+	signingkey = 68CCC4E465DD7281
+[commit]
+	gpgsign = true
+[core]
+	editor = vim
+[merge]
+	tool = meld
