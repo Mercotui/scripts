@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Icon=freedroid
+Name=Android Monitor
+Comment=Debugging Android
+Exec=/home/Johannux/bin/android-sdk-linux/tools/monitor
+Categories=Development;
